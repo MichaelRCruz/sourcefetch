@@ -1,4 +1,4 @@
 Hello, World.
 
 Sup, yo.
-http://www.michaelcruz.io
+print("Hello, World!")
